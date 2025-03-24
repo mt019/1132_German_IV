@@ -1,0 +1,17 @@
+book_filename: "1132-German-IV.Rmd"
+clean: [packages.bib, bookdown.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: "圖 "
+    tab: "表 "
+  ui:
+    edit: "編輯"
+    chapter_name: ["第 ", " 章"]
+output_dir: "docs"
+rmd_subdir: true
+rmd_files:
+  - index.Rmd
+  - ./HW/HW_W03.md
+  - ./notes/KB_64.md
+  - ./notes/W06_0324.md

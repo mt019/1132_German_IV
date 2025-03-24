@@ -1,0 +1,24 @@
+---
+title: "1132 德文四"
+author: [王逸帆]
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# output: bookdown::gitbook
+output: bookdown::bs4_book
+link-citations: true
+url: https://mt019.github.io/1132_German_IV/
+description: "113-2 學期【德文四】課堂筆記。采用R的bookdown制作，输出格式为bookdown::bs4_gitbook."
+
+---
+
+
+# Preface {-}
+
+德文四
+
+
+113-2 學期《德文四》課堂筆記。采用R的bookdown製作，輸出格式為bookdown::gitbook。
+
+
+
