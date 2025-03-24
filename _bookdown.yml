@@ -12,6 +12,7 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
-  - ./HW/HW_W03.md
-  - ./notes/KB_64.md
-  - ./notes/W06_0324.md
+  - ./01_Notes/00.md
+  - ./01_Notes/KB_64.md
+  - ./01_Notes/W06_0324.md
+  - ./02_HW/HW_W03.md
