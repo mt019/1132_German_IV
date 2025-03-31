@@ -12,7 +12,10 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
+  - ./00_小知識/分數.md
   - ./00_小知識/動詞支配類型.md
+  - ./00_小知識/抗壓表達.md
+  - ./00_小知識/指示代名詞.md
   - ./01_Notes/00.md
   - ./01_Notes/KB_58/KB_58_Source.md
   - ./01_Notes/KB_58/KB_58_詞彙.md
@@ -21,5 +24,8 @@ rmd_files:
   - ./01_Notes/KB_60/W06_0324.md
   - ./01_Notes/KB_64/KB64_詞彙.md
   - ./01_Notes/KB_64/KB_64.md
+  - ./01_Notes/KB_64/KB_64_Fragen.md
   - ./01_Notes/KB_64/KB_64_Source.md
-  - ./02_HW/HW_W03.md
+  - ./02_HW/W03/HW_W03.md
+  - ./02_HW/W07/HW_W07.md
+  - ./02_HW/W07/詞彙短語.md

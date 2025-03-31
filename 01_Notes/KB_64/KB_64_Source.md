@@ -1,4 +1,8 @@
-# KB 64 原文 Was Frauen und Männer wirklich wollen
+# KB 64 
+
+原文
+
+## Was Frauen und Männer wirklich wollen
 
 
 
@@ -19,3 +23,20 @@ Frauen und Männer wünschen sich eine gesunde Balance zwischen Beruf und Famili
 
 Wer eine schlechte Ausbildung hat, bleibt auf der Strecke
 Frauen und Männer mit guter Ausbildung sind heute erfolgreicher und sehr viel zufriedener mit ihrem Leben als jene mit schlechter Bildung. Diese waren 2007 noch ebenso selbstbewusst und zuversichtlich wie die gut Gebildeten. Heute bewerten sie ihre Chancen schlecht.
+
+
+
+## Wunschaussagen und Zustimmungswerte (2007 vs. 2012)
+
+| Aussage                                                                                           | Männer (%) | Frauen (%) | Jahr(e)      |
+|----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+| **Meine Partnerin soll viel Geld verdienen.**                                                     | 17 (2007) / 45 (2012) | –           | 2007 / 2012 |
+| **Ich denke, dass ich es später bereuen würde, keine Kinder zu haben.**                           | 79         | 77          | 2012         |
+| **Mein Partner / meine Partnerin soll für den eigenen Lebensunterhalt sorgen.**                   | 76         | 93          | 2012         |
+| **Mein Partner / meine Partnerin soll eigene Interessen haben.**                                  | 94         | 93          | 2012         |
+| **Mein Partner / meine Partnerin soll auch Zeit ohne mich verbringen können.**                    | 95         | 90          | 2012         |
+| **Mein Partner soll für die Existenzsicherung zuständig sein, ich für Haushalt und Kinder.**      | 1          | 6           | 2012         |
+| **Mein Partner / meine Partnerin soll sich für meinen Beruf interessieren.**                      | 76         | 86          | 2012         |
+| **Ich werde meine Kinder nicht für den Beruf zurückstellen.**                                     | 7          | 17          | 2012         |
+
+***
