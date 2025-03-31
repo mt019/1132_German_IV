@@ -12,6 +12,7 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
+  - ./00_小知識/00_Part_title.md
   - ./00_小知識/分數.md
   - ./00_小知識/動詞支配類型.md
   - ./00_小知識/抗壓表達.md
