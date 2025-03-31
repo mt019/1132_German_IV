@@ -106,7 +106,7 @@ abschnitt-4-soziale-herkunft-bildung
 語塊-redemittel-3
 kb-60-armut
 kb-61-kapitel-4soziale-herkunft-und-bildungschancen
-第1句
+s.01
 原文
 翻譯
 句子結構解析
@@ -115,7 +115,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 名詞變格表
 介詞短語解析
 學術專業詞彙或學術術語解釋
-第2句社會出身與教育機會的關聯性問題
+s.02
 原文-1
 翻譯-1
 句子結構解析-1
@@ -124,7 +124,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 名詞變格表-1
 介詞短語解析-1
 學術專業詞彙或學術術語解釋-1
-第3句愛與關懷不足以應對教育期待
+s.03
 原文-2
 翻譯-2
 句子結構解析-2
@@ -133,7 +133,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 名詞變格表-2
 介詞短語解析-2
 學術專業詞彙或學術術語解釋-2
-第4句經濟安全的家庭在學齡前就提供資源
+s.04
 原文-3
 翻譯-3
 句子結構解析-3
@@ -142,7 +142,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 名詞變格表-3
 介詞短語解析-3
 學術專業詞彙或學術術語解釋-3
-第5句資源豐富的家庭能輕鬆負擔額外學習機會
+s.05
 原文-4
 翻譯-4
 句子結構解析-4
@@ -154,7 +154,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 段落主題與語境定位
 背景知識補充
 專業詞彙或學術術語解釋
-第6句上學後家長也能負擔補習費用
+s.06
 原文-5
 翻譯-5
 句子結構解析-5
@@ -166,7 +166,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 段落主題與語境定位-1
 背景知識補充-1
 專業詞彙或學術術語解釋-1
-第7句有錢意味著學業表現更好
+s.07
 原文-6
 翻譯-6
 句子結構解析-6
@@ -178,7 +178,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 段落主題與語境定位-2
 背景知識補充-2
 專業詞彙或學術術語解釋-2
-第8句家庭教育觀念與社會出身密切相關
+s.08
 原文-7
 翻譯-7
 句子結構解析-7
@@ -190,7 +190,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 段落主題與語境定位-3
 背景知識補充-3
 專業詞彙或學術術語解釋-3
-第9句受過良好教育的家長更重視孩子的教育
+s.09
 原文-8
 翻譯-8
 句子結構解析-8
@@ -200,7 +200,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 介詞短語解析-8
 學術背景說明-4
 專業詞彙或學術術語解釋-4
-第10句家長在日常生活中也重視教育
+s.10
 原文-9
 翻譯-9
 句子結構解析-9
@@ -209,7 +209,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 名詞變格表-9
 介詞短語解析-9
 學術專業詞彙或學術術語解釋-4
-第11句孩子從父母身上學會教育的價值
+s.11
 原文-10
 翻譯-10
 句子結構解析-10
@@ -218,7 +218,7 @@ kb-61-kapitel-4soziale-herkunft-und-bildungschancen
 名詞變格表-10
 介詞短語解析-10
 學術專業詞彙或學術術語解釋-5
-第12句孩子的學習動機因此提升
+s.12
 原文-11
 翻譯-11
 句子結構解析-11
