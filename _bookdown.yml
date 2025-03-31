@@ -12,7 +12,14 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
+  - ./00_小知識/動詞支配類型.md
   - ./01_Notes/00.md
-  - ./01_Notes/KB_64.md
-  - ./01_Notes/W06_0324.md
+  - ./01_Notes/KB_58/KB_58_Source.md
+  - ./01_Notes/KB_58/KB_58_詞彙.md
+  - ./01_Notes/KB_60/KB60_詞彙.md
+  - ./01_Notes/KB_60/KB_60_Source.md
+  - ./01_Notes/KB_60/W06_0324.md
+  - ./01_Notes/KB_64/KB64_詞彙.md
+  - ./01_Notes/KB_64/KB_64.md
+  - ./01_Notes/KB_64/KB_64_Source.md
   - ./02_HW/HW_W03.md
