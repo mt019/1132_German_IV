@@ -9,8 +9,8 @@ bookdown::gitbook:
       before: |
         <li><a href="./">1132 德文四</a></li>
       after: |
-        <li><a href="https://github.com/mt019/1132_German_Legal" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/mt019/1132_German_Legal/edit/main/%s
+        <li><a href="https://github.com/mt019/1132_German_IV" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/mt019/1132_German_IVs/edit/main/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
