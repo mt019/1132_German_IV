@@ -15,23 +15,38 @@ rmd_files:
   - ./00_小知識/00_Part_title.md
   - ./00_小知識/分數.md
   - ./00_小知識/動詞支配類型.md
+  - ./00_小知識/形式被動.md
   - ./00_小知識/抗壓表達.md
   - ./00_小知識/指示代名詞.md
+  - ./00_小知識/演講用語.md
   - ./01_Notes/00.md
   - ./01_Notes/KB_58/KB_58_Source.md
   - ./01_Notes/KB_58/KB_58_詞彙.md
   - ./01_Notes/KB_60/KB60_詞彙.md
   - ./01_Notes/KB_60/KB_60_Source.md
   - ./01_Notes/KB_60/W06_0324.md
+  - ./01_Notes/KB_63/KB_63.md
   - ./01_Notes/KB_64/KB64_詞彙.md
   - ./01_Notes/KB_64/KB_64.md
   - ./01_Notes/KB_64/KB_64_Fragen.md
   - ./01_Notes/KB_64/KB_64_Source.md
-  - ./01_Notes/kb_vocab_frequency.md
+  - ./01_Notes/KB_68/KB_68_Source.md
+  - ./01_Notes/KB_72/KB_72_Source.md
+  - ./01_Notes/KB_74/KB_74.md
+  - ./01_Notes/KB_74/KB_74_Source.md
   - ./02_HW/W03/HW_W03.md
   - ./02_HW/W07/HW_W07.md
   - ./02_HW/W07/詞彙短語.md
-  - ./03_Quiz/Quiz01.md
-  - ./03_Quiz/德文四_KB64詞彙.md
-  - ./03_Quiz/德文四_小考準備素材.md
-  - ./03_Quiz/德文四_詞彙雙語對照表.md
+  - ./02_HW/W07/詞彙短語02.md
+  - ./03_Quiz/Q01_K04/Quiz01.md
+  - ./03_Quiz/Q01_K04/Wortschatz.md
+  - ./03_Quiz/Q01_K04/備考詞彙短語/可分動詞.md
+  - ./03_Quiz/Q01_K04/備考詞彙短語/名詞.md
+  - ./03_Quiz/Q01_K04/備考詞彙短語/形容詞.md
+  - ./03_Quiz/Q01_K04/備考詞彙短語/短語句式.md
+  - ./03_Quiz/Q01_K04/備考詞彙短語/詞彙.md
+  - ./03_Quiz/Q01_K04/備考詞彙短語/謂語動詞.md
+  - ./03_Quiz/Q01_K04/備考詞彙短語/非名詞.md
+  - ./03_Quiz/Q01_K04/德文四_KB64詞彙.md
+  - ./03_Quiz/Q01_K04/德文四_小考準備素材.md
+  - ./03_Quiz/Q01_K04/德文四_詞彙雙語對照表.md

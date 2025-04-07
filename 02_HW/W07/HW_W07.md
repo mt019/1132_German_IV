@@ -102,3 +102,13 @@ Männern
 
 15. **Schließlich geht es nicht um Perfektion, sondern um Gleichwürdigkeit, Respekt und die Bereitschaft, gemeinsam an einer partnerschaftlichen Zukunft zu arbeiten.**  
 　最終，女性追求的不是完美的男人，而是能一起構築平等、尊重與共同未來的夥伴。
+
+***
+
+R10A21126 王逸帆 2025.04.05
+
+## Was erwarten Frauen heutzutage von Männern?  
+<!-- ## Zusammenhängender Fließtext (B2-Niveau) -->
+
+
+In der heutigen Gesellschaft haben sich die Erwartungen von Frauen an Männer stark verändert. An erster Stelle steht der Wunsch nach einer gleichberechtigten Betrachtung der Geschlechterrollen. Frauen möchten nicht mehr in traditionelle Muster gedrängt werden, sondern erwarten, dass Männer bereit sind, die klassische Arbeitsteilung zu hinterfragen. Dabei spielt emotionale und praktische Unterstützung im Alltag eine entscheidende Rolle. Viele Frauen wünschen sich, dass Männer nicht nur physisch präsent sind, sondern auch emotional Verantwortung übernehmen. Darüber hinaus ist Verbindlichkeit in Beziehungen ein zentrales Thema: Frauen legen Wert auf klare Zusagen und stabile Partnerschaften. Ein weiteres wichtiges Anliegen ist die Anerkennung biologischer Unterschiede zwischen den Geschlechtern – nicht als Grundlage für Ungleichbehandlung, sondern als Ausgangspunkt für gegenseitiges Verständnis. Frauen erwarten, dass Männer Verantwortung in Familie und Beruf gleichermaßen tragen. Sie wollen nicht mehr allein für Haushalt oder Kinderbetreuung zuständig sein. Stattdessen streben sie ein partnerschaftliches Miteinander an, in dem Aufgaben gemeinsam bewältigt werden. Ebenso wichtig ist die Achtung vor der individuellen Entscheidungsfreiheit: Jede Person soll selbst bestimmen dürfen, welchen Lebensweg sie geht – unabhängig vom Geschlecht. Ein respektvoller Umgang ist dabei unerlässlich. Frauen wünschen sich, dass Männer sensibel kommunizieren und ihre Meinungen nicht dominieren. Auch die Fähigkeit zur Selbstreflexion wird geschätzt: Männer sollen in der Lage sein, gesellschaftliche Privilegien kritisch zu hinterfragen. Schließlich geht es nicht um Perfektion, sondern um Gleichwürdigkeit, Respekt und die Bereitschaft, gemeinsam an einer partnerschaftlichen Zukunft zu arbeiten.
