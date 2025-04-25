@@ -70,6 +70,24 @@ Stattdessen kümmern sich viele um einen Nebenjob oder um einen Ausbildungsplatz
 
 Der von Fahim Yusufzai gegründete Verein „Sport gegen Gewalt“ gilt als Vorbild für ähnliche Projekte in vielen Großstädten Deutschlands.
 
+
+
+
+1️⃣ Kriminelle Jugendliche machen ein Einkaufszentrum unsicher.  
+
+2️⃣ Der Sicherheitsleiter war machtlos gegenüber den Jugendlichen.  
+
+3️⃣ Fahim Yusufzai wollte das Problem durch Kampfsportunterricht lösen.  
+
+4️⃣ Die Jugendlichen mussten sich entscheiden: Kampfsport oder Strafanzeige.  
+
+5️⃣ Der Erfolg des Vereins zeigt sich darin, dass die Anzahl an Straftaten sinkt.  
+
+6️⃣ Fahim Yusufzai hat für die Jugendlichen immer ein offenes Ohr und steht ihnen zur Seite.  
+
+
+
+
 ## KB 60 Armut
 
 KB 60-61
@@ -172,6 +190,34 @@ Den Kindern wird vorgelebt, dass Bildung etwas Erstrebenswertes ist.
 
 Dadurch steigern Kinder ihre Leistungsbereitschaft.
 
+
+
+## KB 63
+
+## 2a Hören Sie einige Sätze aus dem Interview noch einmal. Ergänzen Sie die Nomen, die mit den Verben eine feste Verbindung bilden.
+
+1. Die Berliner Charité hat **Untersuchungen** zum Thema „Computerspielsucht“ angestellt.
+
+2. Die Ergebnisse versetzten nicht nur Eltern und Lehrer in **Aufregung / Anspannung**.
+
+3. Da möchte ich Ihnen gleich die nächste **Frage** stellen.
+
+4. Die Jugendlichen ergreifen einfach die **Flucht** in virtuelle Parallelwelten.
+
+
+## 2c In einigen Nomen-Verb-Verbindungen kann man nicht vom Nomen auf das Verb schließen.  
+Ordnen Sie die Bedeutungen zu und formulieren Sie die Sätze neu.
+
+1. Bei der Entstehung einer Sucht **spielt Stress eine große Rolle**.  
+   → **B** sehr relevant sein
+
+2. Jugendliche **stehen heute enorm unter Druck**.  
+   → **C** gestresst sein
+
+3. Da **kommen mehrere Merkmale in Betracht**.  
+   → **A** möglich sein
+
+
 ## KB 64 
 
 原文
@@ -260,4 +306,41 @@ Heute bewerten sie ihre Chancen schlecht.
 | **Ich werde meine Kinder nicht für den Beruf zurückstellen.**                                     | 7          | 17          | 2012         |
 
 ***
+
+
+
+## KB 74
+
+
+Kleine Nachwuchskräfte
+
+Oft klagen Lehrer über die mangelnde Konzentration und Motivation ihrer Schüler im Unterrichtsalltag.
+
+Doch ein Tag im „NatLab“ ist alles andere als Alltag. 
+
+Die Schüler hängen einem jungen Mann an den Lippen, stellen interessierte Fragen und versuchen begeistert, Antworten zu geben.
+
+Kurze Zeit später stehen die Kinder im Labor und führen ein Experiment durch. 
+
+Gespannt folgen sie der Anleitung bzw. erklären sie sich gegenseitig, wie sie vorgehen müssen. 
+
+
+
+
+
+
+
+Beim Besuch des Mitmach- und Experimentierlabors „NatLab“ der Freien Universität (FU) Berlin, das speziell für Schüler konzipiert worden ist, sind die Kinder konzentriert bei der Sache. 
+
+In diesem Umfeld lässt sich die Scheu der Kinder vor der Forscherwelt leicht abbauen. 
+
+Seit sie sich ihre weißen Laborkittel angezogen haben, sind sie wie ausgewechselt. 
+
+Im „NatLab“ werden die Kinder sanft und mit viel Spaß an die Wissenschaft herangeführt. 
+
+Naturwissenschaftliche Phänomene sind so viel besser verständlich. 
+
+Das „NatLab“ der FU wurde 2002 gegründet und ist nur eine von vielen Einrichtungen in der Hauptstadt, in die Schulen ihre Schüler zu Experimentierkursen schicken.
+
+
 

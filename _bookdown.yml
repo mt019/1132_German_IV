@@ -13,9 +13,15 @@ rmd_subdir: true
 rmd_files:
   - index.Rmd
   - ./00_小知識/00_Part_title.md
+  - ./00_小知識/KII.md
+  - ./00_小知識/n變格.md
+  - ./00_小知識/sichlassen.md
+  - ./00_小知識/stehen.md
   - ./00_小知識/分數.md
   - ./00_小知識/動詞支配類型.md
+  - ./00_小知識/可見性句式.md
   - ./00_小知識/形式被動.md
+  - ./00_小知識/微觀粒子.md
   - ./00_小知識/抗壓表達.md
   - ./00_小知識/指示代名詞.md
   - ./00_小知識/演講用語.md
@@ -33,11 +39,16 @@ rmd_files:
   - ./01_Notes/KB_68/KB_68_Source.md
   - ./01_Notes/KB_72/KB_72_Source.md
   - ./01_Notes/KB_74/KB_74.md
+  - ./01_Notes/KB_74/KB_74_Q.md
   - ./01_Notes/KB_74/KB_74_Source.md
+  - ./01_Notes/KB_74/KB_抄寫.md
+  - ./01_Notes/KB_78/KB_78.md
+  - ./01_Notes/KB_78/KB_78_Source.md
   - ./02_HW/W03/HW_W03.md
   - ./02_HW/W07/HW_W07.md
   - ./02_HW/W07/詞彙短語.md
   - ./02_HW/W07/詞彙短語02.md
+  - ./03_Quiz/Q01_K04/Q1_錯題.md
   - ./03_Quiz/Q01_K04/Quiz01.md
   - ./03_Quiz/Q01_K04/Wortschatz.md
   - ./03_Quiz/Q01_K04/備考詞彙短語/可分動詞.md
