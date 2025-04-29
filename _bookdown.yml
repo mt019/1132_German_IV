@@ -43,7 +43,9 @@ rmd_files:
   - ./01_Notes/KB_74/KB_74_Source.md
   - ./01_Notes/KB_74/KB_抄寫.md
   - ./01_Notes/KB_78/KB_78.md
+  - ./01_Notes/KB_78/KB_78_Q.md
   - ./01_Notes/KB_78/KB_78_Source.md
+  - ./01_Notes/KB_80/KB_80_Source.md
   - ./02_HW/W03/HW_W03.md
   - ./02_HW/W07/HW_W07.md
   - ./02_HW/W07/詞彙短語.md
@@ -61,3 +63,4 @@ rmd_files:
   - ./03_Quiz/Q01_K04/德文四_KB64詞彙.md
   - ./03_Quiz/Q01_K04/德文四_小考準備素材.md
   - ./03_Quiz/Q01_K04/德文四_詞彙雙語對照表.md
+  - ./03_Quiz/Q_Mid/Q_Mid_Review.md

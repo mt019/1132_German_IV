@@ -1,6 +1,8 @@
-# **Antworten auf die Fragen – „Kleine Nachwuchskräfte“ (KB 74)**
+# **Antworten auf die Fragen 
 
-## 1. Was machen die Kinder im „NatLab“?
+## 2b – „Kleine Nachwuchskräfte“ (KB 74)**
+
+### 1. Was machen die Kinder im „NatLab“?
 
 **Antwort (Deutsch):**  
 Im „NatLab“ führen die Kinder naturwissenschaftliche Experimente durch. Sie hören aufmerksam zu, stellen interessierte Fragen, beantworten Aufgaben mit Begeisterung und arbeiten konzentriert zusammen.
@@ -13,9 +15,9 @@ Im „NatLab“ führen die Kinder naturwissenschaftliche Experimente durch. Sie
 - *...führen ein Experiment durch.*  
 - *...sind die Kinder konzentriert bei der Sache.*
 
----
 
-## 2. Warum ist es wichtig, Kinder schon früh an die Wissenschaft heranzuführen?
+
+### 2. Warum ist es wichtig, Kinder schon früh an die Wissenschaft heranzuführen?
 
 **Antwort (Deutsch):**  
 Es ist wichtig, weil wissenschaftliche und analytische Fähigkeiten früh erworben werden müssen, damit sich Kinder voll entfalten können. Außerdem stellt sich Begeisterung für die Wissenschaft nicht plötzlich nach dem Abitur ein, sondern sollte möglichst früh geweckt werden.
@@ -27,9 +29,9 @@ Es ist wichtig, weil wissenschaftliche und analytische Fähigkeiten früh erworb
 - *Mathematische und andere analytische Fähigkeiten müssen von Kindern schon früh erworben werden, damit sie sich voll entfalten können.*  
 - *Die Begeisterung der Kinder für die Wissenschaft muss möglichst früh geweckt werden...*
 
----
 
-## 3. Wie wird den Kindern der „Wasserberg“ erklärt?
+
+### 3. Wie wird den Kindern der „Wasserberg“ erklärt?
 
 **Antwort (Deutsch):**  
 Der Pädagoge führt mit den Kindern ein Experiment durch, bei dem Wasser mit Pipetten in einen Becher gespritzt wird, bis es über den Rand hinaus steht. Dann lassen die Kinder den Wasserberg vorsichtig wackeln. Der Pädagoge erklärt das Verhalten des Wassers, indem er es mit den Kindern vergleicht, die sich die Hände geben und im Kreis zusammenhalten – wie die Wasserteilchen.
@@ -42,7 +44,7 @@ Der Pädagoge führt mit den Kindern ein Experiment durch, bei dem Wasser mit Pi
 - *„Warum fällt das Wasser nicht herunter?“ Die Kinder wundern sich...*  
 - *„Ihr seid wie die Wasserteilchen“, sagt er, „die echten Teilchen halten genauso zusammen wie ihr.“*
 
----
+
 
 
 
@@ -56,7 +58,7 @@ Anschließend stellt der Pädagoge eine Analogie her, indem er mit den Kindern e
 
 Diese bildhafte, erfahrungsnahe Erklärung ermöglicht den Kindern ein erstes intuitives Verständnis eines komplexen physikalischen Phänomens, das später formalisiert werden kann.
 
----
+
 
 **Antwort (Chinesisch, 語意層次翻譯)**
 
@@ -68,11 +70,61 @@ Diese bildhafte, erfahrungsnahe Erklärung ermöglicht den Kindern ein erstes in
 
 這種經驗式、互動式的教學方法幫助孩子們用自己的身體感知物理現象，為後續更抽象的學習打下直觀基礎。
 
----
 
-# **KB 74 – Übung b: Alternative zu Passivsätzen mit Modalverben**
 
-## Statt Passiv mit Modalverb kann man auch andere Passivsatzformen verwenden.
+
+## 3a werden
+
+
+
+### Präsens
+
+- **Satz**:  
+  Im „NatLab“ **werden** die Kinder an die Wissenschaft herangeführt.
+
+- **Verbteile**:  
+  - werden (Hilfsverb)
+  - herangeführt (Partizip II)
+
+
+
+### Präteritum
+
+- **Satz**:  
+  Das „NatLab“ **wurde** 2002 gegründet.
+
+- **Verbteile**:  
+  - wurde (Hilfsverb)
+  - gegründet (Partizip II)
+
+
+
+### Perfekt
+
+- **Satz**:  
+  Das Labor **ist** speziell für Schüler konzipiert **worden**.
+
+- **Verbteile**:  
+  - ist (Hilfsverb)
+  - konzipiert (Partizip II)
+  - worden (Hilfsverb, Perfektpassiv)
+
+
+
+### Mit Modalverb
+
+- **Satz**:  
+  Analytische Fähigkeiten **müssen** von Kindern früh erworben **werden**.
+
+- **Verbteile**:  
+  - müssen (Modalverb)
+  - erworben (Partizip II)
+  - werden (Hilfsverb)
+
+
+## **3b: Alternative zu Passivsätzen mit Modalverben**
+
+### Statt Passiv mit Modalverb kann man auch andere Passivsatzformen verwenden.
 
 1. **Struktur: sein + zu + Infinitiv**
    - Beispielsatz:
@@ -90,7 +142,7 @@ Diese bildhafte, erfahrungsnahe Erklärung ermöglicht den Kindern ein erstes in
    - Beispielsatz:
      - Auch im Kindergartenalter sind bereits naturwissenschaftliche Experimente durchführbar.
    - Entsprechende Passivform mit Modalverb:
-     - Naturwissenschaftliche Experimente können durchgeführt werden.
+     - Naturwissenschaftliche Experimente können auch im Kindergartenalter durchgeführt werden.
 
 4. **Struktur: Adjektiv mit Endung -lich**
    - Beispielsatz:
@@ -98,4 +150,63 @@ Diese bildhafte, erfahrungsnahe Erklärung ermöglicht den Kindern ein erstes in
    - Entsprechende Passivform mit Modalverb:
      - Naturwissenschaftliche Phänomene können so viel besser verstanden werden.
 
+# 4
 
+1. Kinder können leicht motiviert werden.
+   - Kinder lassen sich leicht motivieren.
+   - Kinder sind leicht zu motivieren.
+   - Kinder sind leicht motivierbar.
+2. Viele Projekte für Kinder können ohne staatliche Hilfe nicht finanziert werden.
+  - Viele Projekte für Kinder sind ohne staatliche Hilfe nicht finanzierbar.
+  - Ohne staatliche Hilfe sind viele Projekte für Kinder nicht finanzierbar.
+  - Ohne staatliche (Hilfe) Unterstützung lassen sich viele Projekte für Kinder nicht finanzieren.
+  - Viele Projekt für Kinder sind ohne Staatliche Hilfe nicht zu finanzieren.
+3. Die Aufgaben(任務，題型) müssen von den Kindern gelöst werden.
+  - Die Aufgaben sind von den Kindern zu lösen.
+  - Die Aufgaben sind zu lösen.
+  - Die Aufgaben lassen sich nur von den Kindern lösen.
+  - Die Aufgaben müssen die Kinder lösen.(主動！)
+
+<!-- 
+# 多種不同寫法訓練（基於你的三個句型）
+
+
+
+## 1. Kinder können leicht motiviert werden.
+
+### 其他寫法：
+
+- Kinder lassen sich ohne großen Aufwand motivieren.
+- Es ist leicht, Kinder zu motivieren.
+- Die Motivation von Kindern ist einfach zu erreichen.
+- Kinder sind leicht zu motivieren.
+- Kinder zeigen sich schnell motivierbar.
+- Es fällt nicht schwer, Kinder zu motivieren.
+
+
+
+## 2. Viele Projekte für Kinder können ohne staatliche Hilfe nicht finanziert werden.
+
+### 其他寫法：
+
+- Ohne staatliche Unterstützung lassen sich viele Projekte für Kinder nicht finanzieren.
+- Staatliche Hilfe ist notwendig, um viele Projekte für Kinder zu finanzieren.
+- Viele Projekte für Kinder wären ohne staatliche Unterstützung nicht realisierbar.
+- Die Finanzierung vieler Kinderprojekte ist ohne staatliche Hilfe unmöglich.
+- Viele Projekte für Kinder bleiben ohne staatliche Hilfe unfertig.
+
+
+
+## 3. Die Aufgaben müssen von den Kindern gelöst werden.
+
+### 其他寫法：
+
+- Die Kinder müssen die Aufgaben lösen.
+- Die Aufgaben sind von den Kindern zu bearbeiten.
+- Es ist erforderlich, dass die Kinder die Aufgaben lösen.
+- Die Lösung der Aufgaben obliegt den Kindern.
+- Die Aufgaben lassen sich nur von den Kindern lösen.
+- Die Aufgaben stehen zur Lösung durch die Kinder an.
+
+
+ -->

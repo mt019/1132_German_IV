@@ -1,9 +1,11 @@
-# Ist da jemand?
+# KB 78 
 
-### 1a  
+## Ist da jemand?
+
+#### 1a  
 **Stellen Sie sich vor, dass es auf der Erde keine Menschen mehr gibt. Was würde sich in 10, 50, 1.000 … Jahren verändern?**
 
-### 1b  
+#### 1b  
 **Lesen Sie den Artikel und ordnen Sie die Überschriften den Abschnitten zu.**
 
 **A** Durch die Zukunft die Gegenwart verstehen  
@@ -15,18 +17,31 @@
 
 ---
 
-### 🧠 *Strategie: Überschriften schaffen Orientierung*  
+#### 🧠 *Strategie: Überschriften schaffen Orientierung*  
 Lesen Sie für einen ersten Überblick die Überschriften eines Textes.  
 Sie verraten bereits viel über den Inhalt und den Aufbau.  
 **Das Verstehen des gesamten Textes ist danach leichter.**
 
 
 
-# Irgendwer zu Hause?
+## Irgendwer zu Hause?
+
+
+<!-- 
+Nach zahlreichen Gesprächen mit Forschern und Technikern zeigt uns der Journalist Alan Weisman seine Vision von der Zukunft: Eine Welt ohne die Spezies Mensch.
+
+Ökologen freuen sich schon jetzt über die Prognosen, die Weisman in seinem Buch "The world without us" beschreibt: Unsere Erde kann gut ohne den Menschen auskommen und es gibt kaum einen, der uns vermissen würde. Die Natur würde sich Städte und Gebäude schnell zurückerobern, wenn dr Menschen nicht mehr da ist. Trotzdem hinterlassen wir Spuren, die auch noch in Millionen von Jahren sichtbar wären.
+
+ -->
 
 Nach zahlreichen Gesprächen mit Forschern und Technikern zeigt uns der Journalist Alan Weisman seine Vision von der Zukunft: Eine Welt ohne die Spezies Mensch.
 
 Ökologen freuen sich schon jetzt über die Prognosen, die Weisman in seinem Buch „The world without us“ beschreibt: Unsere Erde kann gut ohne den Menschen auskommen und es gibt kaum einen, der uns vermissen würde. Die Natur würde sich Städte und Gebäude schnell zurückerobern, wenn der Mensch nicht mehr da ist. Trotzdem hinterlassen wir Spuren, die auch noch in Millionen von Jahren sichtbar wären.
+
+
+<!-- 
+Bereits nach 48 Stunden ohne Menschen, schreibt Weisman, würde die New York U-Bahn unter Wasser stehen. Der Grund: Ohne Pumpen, um die sich niemand mehr kümmern könnte, läuft Grundwasser in die U-Bahn. Bis zu 40 Millionen Liter Wasser hätten dann freie Bahn und keiner hält sie auf. Auch andere Bauwerke in der Stadt würden ohne uns bereits nach einigen Jahren einstützen. Die Straßen versinken in der Erde und bilden eine gut Basis für neue Flüsse.
+ -->
 
 Bereits nach 48 Stunden ohne Menschen, schreibt Weisman, würde die New Yorker U-Bahn unter Wasser stehen. Der Grund: Ohne Pumpen, um die sich niemand mehr kümmern könnte, läuft Grundwasser in die U-Bahn. Bis zu 40 Millionen Liter Wasser hätten dann freie Bahn und keiner hält sie auf. Auch andere Bauwerke in der Stadt würden ohne uns bereits nach einigen Jahren einstürzen. Die Straßen versinken in der Erde und bilden eine gute Basis für neue Flüsse. Die Natur braucht nur zwei Jahrzehnte und niemanden von uns als Hilfe, um die Städte wieder fest im Griff zu haben.
 
